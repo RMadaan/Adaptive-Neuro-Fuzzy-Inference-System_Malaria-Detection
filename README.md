@@ -1,1 +1,1 @@
-# Adaptive-Neuro-Fuzzy-Inference-System_Malaria-Detection-System
+# Adaptive-Neuro-Fuzzy-Inference-Malaria-Detection-System
